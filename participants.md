@@ -22,3 +22,5 @@ A list of participants in CSC 195
 * Noah D. Schlager
 * Elias Mulhall
 * Yazan A. Kittaneh
+
+Comparing the resource that we sent up to the resource we received back, you'll notice that the server generated a basic narrative for us from the data available and also added its logical ID
