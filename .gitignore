@@ -1,5 +1,7 @@
 # Illustration: Ignore files called .jobs
 .jobs
+# Illustration: Ignore files called .doc
+.doc
 # Illustration: Ignore the teacher
 SAMR
 # Serious: Ignore vi backup files
