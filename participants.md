@@ -24,3 +24,5 @@ A list of participants in CSC 195
 * Yazan A. Kittaneh
 
 Comparing the resource that we sent up to the resource we received back, you'll notice that the server generated a basic narrative for us from the data available and also added its logical ID
+
+Click the apropirate button below depending on which programming language you are intrested in. This will help this web site display the examples most relevant to your choice.
